@@ -1,1 +1,1 @@
-hey"welcom to my project"
+echo "welcom to my project"
